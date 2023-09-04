@@ -1,0 +1,26 @@
+# Learning Objectives
+
+- Primary functions of Spring Container
+  - Inverson of Control (create and manage objects)
+  - Dependency Injection (inject object's dependencies)
+- Defining dependencies injecttion types
+  - Constructor Injection
+  - Setter Injection
+  - Field Injection
+- Component Scanning
+  - ScanBasePackages
+- Qualifiers annotation
+- Primary annotation
+- Lazy initialization
+- Bean scopes
+  - Singleton
+  - Prototype
+  - Request
+  - Session
+  - Global Session
+- Spring Bean Lifecycle
+  - @PostConstruct
+  - @PreDestroy
+- Java configuration
+  - @Configuration
+  - @Bean
